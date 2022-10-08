@@ -12,7 +12,7 @@ Tools used:
 
 ## How works:
 
-The index page "Shop" look like this:
+### Shop:
 <img alt="Shop Page" src="./images/index_page.png">
 
 # 
