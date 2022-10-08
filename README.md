@@ -32,3 +32,11 @@ The index page "Shop" look like this:
 <img alt="add_product" src="./images/add_product_page.png">
 
 #
+
+### Admin Product:
+<img alt="Admin products" src="./images/admin_products.png">
+
+#
+
+### Editing Product:
+<img alt="Edint product" src="./images/editing_product.png">
