@@ -1,6 +1,6 @@
 # gm-store
 
-## This project was based on a [node js](https://www.udemy.com/course/nodejs-the-complete-guide/) course on Udemy
+## This project was based on a [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/) course on Udemy
 
 Tools used: 
 <ul>
@@ -9,3 +9,7 @@ Tools used:
 <li>MySQL</li>
 <li>DOTENV</li>
 </ul>
+
+## How works:
+
+The index page "Shop" look like this
