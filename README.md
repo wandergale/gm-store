@@ -13,4 +13,5 @@ Tools used:
 ## How works:
 
 The index page "Shop" look like this
-<img alt="Shop Page" src="./images/index_page.png">
+
+<img alt="Shop Page" src="./images/index_page.png" width="500">
