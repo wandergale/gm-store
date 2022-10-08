@@ -12,15 +12,23 @@ Tools used:
 
 ## How works:
 
-The index page "Shop" look like this
-<<<<<<< HEAD
+The index page "Shop" look like this:
 <img alt="Shop Page" src="./images/index_page.png">
 
 # 
 
-Products Page:
+### Products Page:
 <img alt="products" src="./images/products.png">
-=======
 
-<img alt="Shop Page" src="./images/index_page.png" width="500">
->>>>>>> bdcab5a3d91ba2de2d1610e6edc9df4367c92c2d
+
+#
+
+### Product Details:
+<img alt="Product details" src="./images/product_detail.png">
+
+#
+
+### Add Product:
+<img alt="add_product" src="./images/add_product_page.png">
+
+#
